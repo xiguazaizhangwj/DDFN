@@ -1,5 +1,5 @@
 # DDFN
-Modality-dominant dual-channel dynamic fusion network for multimodal sensitive emotion recognition.
+A dual-channel dynamic fusion network based on modality perspectives for multimodal sensitive emotion analysis.
 
 PyTorch 1.12.0 implementation of the following paper.
 # Dataset
