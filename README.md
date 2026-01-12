@@ -3,7 +3,7 @@ A dual-channel dynamic fusion network based on modality perspectives for multimo
 
 PyTorch 1.12.0 implementation of the following paper.
 # Dataset
-The CH-MSE dataset can be obtained at the following address: https://pan.baidu.com/s/1IOQfZPNlkEigoY3E7SZgKA
+The CH-MCE dataset can be obtained at the following address: https://pan.baidu.com/s/1IOQfZPNlkEigoY3E7SZgKA
 
 Extract code: j1fm
  
